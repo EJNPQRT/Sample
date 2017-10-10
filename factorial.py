@@ -1,4 +1,4 @@
-#s is Sunil programpython program to find the factorial of a number
+#s is Sunil program python program to find the factorial of a number
 
 num=7
 
