@@ -1,5 +1,4 @@
-#s is Sunil program python program to find the factorial of a number
-
+#!/usr/bin/python
 num=7
 
 # uncomment to take input from the user
